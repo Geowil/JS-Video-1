@@ -1,4 +1,4 @@
-Test - this will creat a conflict
+Test -  new content for file this will create a conflict
 
 other lines for more
 chaos
